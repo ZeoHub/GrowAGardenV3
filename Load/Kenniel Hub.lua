@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeoHub/GrowAGarden/refs/heads/main/Kenniel%20Hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeoHub/GrowAGardenV3/refs/heads/main/NoKey/Kenniel%20Hub.lua"))()
