@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/ZeoHub/GrowAGardenV3/blob/main/Visual/PetSpawner/PetSpawner.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeoHub/GrowAGardenV3/refs/heads/main/Visual/PetSpawner/PetSpawner.lua"))()
